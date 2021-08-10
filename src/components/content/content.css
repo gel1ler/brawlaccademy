@@ -1,0 +1,45 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 200px 200px 200px 100px;
+    width: 100%;
+    text-align: center;
+}
+
+.subTitle h2 {
+    font-size: 70px;
+}
+
+.subTitle h1 {
+    font-size: 150px;
+    color: orange;
+}
+
+.Kulnev {
+    background-image: url('../../img/Kulnev.png');
+    background-size: cover;
+    width: 800px;
+    height:  100vh;
+}
+
+.motivation {
+    float: left;
+    font-size: 40px;
+    margin-top: 10%;
+    margin-left: 2%;
+}
+
+.motivation h1 {
+    color: red;
+}
+
+.below {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.delete {
+    display: flex;
+    flex-direction: column;
+}

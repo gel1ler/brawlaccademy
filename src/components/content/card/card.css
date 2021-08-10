@@ -1,0 +1,32 @@
+.card {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cardPhoto {
+    height: 70%;
+    max-width: 300px;
+}
+
+.K {
+    background-image: url('../../../img/Kulnev2.png');
+    background-size: cover;
+    height: 300px;
+    width: 200px;
+}
+
+.E {
+    background-image: url('../../../img/Egor.png');
+    background-size: cover;
+    height: 300px;
+    width: 200px;
+}
+
+.A {
+    background-image: url('../../../img/Alex.png');
+    background-size: cover;
+    height: 300px;
+    width: 200px;
+}
